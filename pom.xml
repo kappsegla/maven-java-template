@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.release>22</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <junit.jupiter.version>5.11.0</junit.jupiter.version>
+        <junit.jupiter.version>5.11.1</junit.jupiter.version>
         <assertj.core.version>3.26.3</assertj.core.version>
         <mockito.version>5.12.0</mockito.version>
     </properties>
