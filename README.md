@@ -20,9 +20,9 @@ This works across all Java versions and forms the foundation of most Java progra
 
 ---
 
-## 🆕 Java 25: Unnamed Class with Instance Main Method
+## 🆕 Unnamed Class with Instance Main Method
 
-In newer versions like **Java 25**, you can use **Unnamed Classes** and an **Instance Main Method**, which allows for a much cleaner syntax:
+Introduced as a preview in Java 21 (JEP 445), you can use **Unnamed Classes** and an **Instance Main Method**, which allows for a much cleaner syntax:
 
 ```java
 void main() {
@@ -45,5 +45,4 @@ java --source 25 HelloWorld.java
 ---
 
 ## 📚 Learn More
-
-This feature is part of Java’s ongoing effort to streamline syntax. You can explore deeper in [Baeldung’s guide to Unnamed Classes and Instance Main Methods](https://www.baeldung.com/java-21-unnamed-class-instance-main).
+https://docs.oracle.com/en/java/javase/21/language/implicitly-declared-classes-and-instance-main-methods.html
